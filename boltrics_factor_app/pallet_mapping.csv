@@ -16,7 +16,8 @@ PLAM,PLAM,1.25
 PLCH,Chep pallet,1.25
 PLIU,Oneway industry pallet,1.25
 PLT,Pallet,1.25
-LL120X120,Lineage 120x120,1.35
+LL120X120,Lineage 120x120,1,00
 DRUM,Drum,1.00
 SAMPLE,Sample,0.00
 TANK,Tank,1.00
+120x120,1,00
