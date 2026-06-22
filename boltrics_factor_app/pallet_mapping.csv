@@ -5,19 +5,19 @@ H1,H1 Pallets,1.00
 PLEP,Plastic Euro Pallet,1.00
 LLEUC,Lineage Euro Chep,1.00
 LLEUR,Lineage Euro Pallet,1.00
-BLK,Blok pallet,1.25
-BLC,Blok Chep,1.25
-BOX,BOX,1.25
-CHEP,Blok Chep,1.25
-HPL,Havenbak,1.25
-LLBLK,Lineage Blok Pallet,1.25
-LLHPL,Lineage Havenbak,1.25
-PLAM,PLAM,1.25
-PLCH,Chep pallet,1.25
-PLIU,Oneway industry pallet,1.25
-PLT,Pallet,1.25
+BLK,Blok pallet,1.00
+BLC,Blok Chep,1.00
+BOX,BOX,1.00
+CHEP,Blok Chep,1.00
+HPL,Havenbak,1.00
+LLBLK,Lineage Blok Pallet,1.00
+LLHPL,Lineage Havenbak,1.00
+PLAM,PLAM,1.00
+PLCH,Chep pallet,1.00  
+PLIU,Oneway industry pallet,1.00
+PLT,Pallet,1.00
 LL120X120,Lineage 120x120,1.00
 DRUM,Drum,1.00
 SAMPLE,Sample,0.00
 TANK,Tank,1.00
-120x120,120x120,1.35
+120x120,120x120,1.00
